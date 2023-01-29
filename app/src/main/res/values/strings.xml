@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">orangeBankTest</string>
+    <string name="accounts">Comptes</string>
+    <string name="incomes">Crédit</string>
+    <string name="outcomes">Débit</string>
+    <string name="transaction_ref">Transaction : %1$s</string>
+    <string name="transaction_info">Informations : %1$s</string>
+</resources>
